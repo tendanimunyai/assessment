@@ -1,0 +1,19 @@
+
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+body, html {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ListItemSecondaryAction {
+  list-style-type: none;
+}
